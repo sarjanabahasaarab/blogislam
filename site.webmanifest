@@ -1,0 +1,23 @@
+{
+    "name": "blogislam.biz.id",
+    "short_name": "blogislam",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNlYMCZ8bO0zvZkDFBvkW8w5aWg6-DT2LPV-YrBKIs9H3F-9cb-YbpXFM06XwDv7knUaaJUoz8afCVHGWaq3DlWB0unNqRyhJAFk1TAZIE7BLHYa08b8QTwnTJv3HCkmm2K8D7xVhi9zxDwVySabTuvUCRpPUgdJgBcGqqsuncxQc3yy_2ZOcZHmQyEHjc/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhylhqX0qQjqq6duT7Wsvk9c6-Ag71JEv8Q6rxJTcIA5K6y7G8mFwgMU6ue8d_F89A5O-xfPbpuj-FVJYo23f0SS3s3WAGc3yuc39WnqL6jLqxdPCuvsKsTjc50Ka27U2UrX8hcSuHoWTq261s1bQfJmlCv_inOVqEvJ8B6OTmQSRG8zC04X2nS-tH5P671/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.blogislam.biz.id"
+}
